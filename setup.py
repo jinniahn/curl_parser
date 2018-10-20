@@ -6,7 +6,7 @@ setup(
     version = "1.0",
     author = "jinsub ahn",
     author_email = "jinniahn@gmail.com",
-    description = ("parser module for curl command.")
+    description = ("parser module for curl command."),
 
     license = "MIT",
     keywords = "curl, network",
